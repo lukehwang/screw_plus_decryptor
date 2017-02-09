@@ -2,6 +2,9 @@
 Decrypt encrypted file by php_screw_plus
 
 # Compile
+```
+gcc -o unscrew unscrew.c
+```
 
 # Usage
 ```
