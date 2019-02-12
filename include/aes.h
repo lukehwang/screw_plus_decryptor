@@ -28,6 +28,7 @@
 #define POLARSSL_AES_H
 
 #include <string.h>
+#include <stdint.h>
 
 #define AES_ENCRYPT     1
 #define AES_DECRYPT     0
